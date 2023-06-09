@@ -8,7 +8,9 @@ Get the two list from the user
 ### Step 2: 
 Import the math module
 ### Step 3: 
-Substitute the values in the distance formula  ![image](https://github.com/Aswinth21/DISTANCE-BETWEEN-TWO-POINTS/assets/120236638/da2c8014-ed0c-492b-8199-c25ce7e3f531)
+Substitute the values in the distance formula  
+![image](https://github.com/Aswinth21/DISTANCE-BETWEEN-TWO-POINTS/assets/120236638/a1ee6eb6-4df6-48d6-8072-d1b072c39a5e)
+
 ### Step 4: 
 Print the value using the format function
 ### Step 5:
