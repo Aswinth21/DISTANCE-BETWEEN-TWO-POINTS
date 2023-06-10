@@ -16,13 +16,11 @@ Print the value using the format function
 ### Step 5:
 End the program
 ### PROGRAM:
-'''
 import math<br>
 a=[4,2]<br>
 b=[10,6]<br>
 dist=math.sqrt((b[0]-a[0])**2+(b[1]-a[1])**2)<br>
 print("{:.2f}".format(dist))<br>
-'''
 
 
 ### OUTPUT:
