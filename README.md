@@ -16,9 +16,6 @@ Print the value using the format function
 ### Step 5:
 End the program
 ### PROGRAM:
-#Program to find the distance between two points.<br>
-#Developed by: Aswinth T <br>
-#RegisterNumber: 212222230015<br>
 import math<br>
 a=[4,2]<br>
 b=[10,6]<br>
@@ -31,4 +28,4 @@ print("{:.2f}".format(dist))<br>
 
 
 ### RESULT:
-The program is executed successfully
+Thus the program to find the distance between two points is written and verified using python programming.
